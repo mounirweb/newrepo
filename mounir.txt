@@ -1,1 +1,3 @@
-print("hello , learning git ")
+print("hello , learning git !")
+
+print("hello , mounir : learning git need practice !")
